@@ -1,0 +1,5 @@
+Pillow>=9.2.0
+selenium>=4.4.3
+aiogram>=2.22.1
+gspread==5.5.0
+oauth2client>=4.1.3

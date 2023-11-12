@@ -1,0 +1,215 @@
+{
+    "students": [
+        {
+            "_comment": "A list of students' surnames",
+            "1": "student_surname_1",
+            "2": "student_surname_2",
+            "3": "student_surname_3",
+            "4": "student_surname_4",
+            "5": "student_surname_5",
+            "6": "student_surname_6",
+            "7": "student_surname_7",
+            "8": "student_surname_8",
+            "9": "student_surname_9",
+            "10": "student_surname_10",
+            "11": "student_surname_11",
+            "12": "student_surname_12"
+        }
+    ],
+    "students_id": [
+        {
+            "_comment": "A list of students' Telegram IDs",
+            "1": "student_telegram_id_1",
+            "2": "student_telegram_id_2",
+            "3": "student_telegram_id_3",
+            "4": "student_telegram_id_4",
+            "5": "student_telegram_id_5",
+            "6": "student_telegram_id_6",
+            "7": "student_telegram_id_7",
+            "8": "student_telegram_id_8",
+            "9": "student_telegram_id_9",
+            "10": "student_telegram_id_10",
+            "11": "student_telegram_id_11",
+            "12": "student_telegram_id_12"
+        }
+    ],
+    "students_id_list": [
+        "A list of students' Telegram IDs (integers)",
+        student_telegram_id_1,
+        student_telegram_id_2,
+        student_telegram_id_3,
+        student_telegram_id_4,
+        student_telegram_id_5,
+        student_telegram_id_6,
+        student_telegram_id_7,
+        student_telegram_id_8,
+        student_telegram_id_9,
+        student_telegram_id_10,
+        student_telegram_id_11,
+        student_telegram_id_12
+    ],
+    "subjects_eqx": [
+        {
+            "_comment": "A list of colloquial names of different subjects, corresponding to their official names on the website",
+            "оперативної хірургії з топографічною анатомією": [
+                "фармакологія",
+                "фарма",
+                "фарм"
+            ]
+        }
+    ],
+    "links_list": [
+        {
+            "_comment": "A list of Zoom links for different subjects",
+            "Мікроба": "zoom_link_1",
+            "Терапія": "zoom_link_2",
+            "Соціологія": "zoom_link_3",
+            "Генетика": "zoom_link_4",
+            "Хірургія": "zoom_link_5",
+            "Патфіз": "zoom_link_6",
+            "Педіатрія": "zoom_link_7",
+            "Радіологія": "zoom_link_8",
+            "Фарма": "zoom_link_9",
+            "Патанат": "zoom_link_10"
+        }
+    ],
+    "subjects_sheets": [
+        {
+            "_comment": "A list of colloquial names of different subjects, corresponding to the names of their folders on the cloud drive",
+            "Соціологія": [
+                "соціологія",
+                "соцка"
+            ],
+            "Терапія": [
+                    "терапія",
+                "пропедевтика",
+                "пропед"
+            ],
+            "Генетика": [
+                "генетика"
+            ],
+            "Хірургія": [
+                "хірургія"
+            ],
+            "Мікроба": [
+                "мікроба",
+                "мікробіологія",
+                "мікра"
+            ],
+            "Радіологія": [
+                "радіологія",
+                "радон",
+                "радєйка",
+                "радейка"
+            ],
+            "Педіатрія": [
+                "педіатрія",
+                "пед"
+            ],
+            "Патанатомія": [
+                "патанатомія",
+                "патанат",
+                "патан",
+                "патоморфологія",
+                "патоанатомія"
+            ],
+            "Патфізіологія": [
+                "патфізіологія",
+                "патофізіологія",
+                "патфіз",
+                "патфіза"
+            ],
+            "Стоматологія": [
+                "стоматологія",
+                "стомат",
+                "стом"
+            ],
+            "Фармакологія": [
+                "фармакологія",
+                "фарма",
+                "фарм",
+                "фармація"
+            ]
+        }
+    ],
+    "topics": [
+        {
+            "_comment": "A list of the subject topic numbers with their corresponding columns in the marks spreadsheet",
+            "1": [
+                "B",
+                "C",
+                "D"
+            ],
+            "2": [
+                "E",
+                "F",
+                "G"
+            ],
+            "3": [
+                "H",
+                "I",
+                "J"
+            ],
+            "4": [
+                "K",
+                "L",
+                "M"
+            ],
+            "5": [
+                "N",
+                "O",
+                "P"
+            ],
+            "6": [
+                "Q",
+                "R",
+                "S"
+            ],
+            "7": [
+                "T",
+                "U",
+                "V"
+            ],
+            "8": [
+                "W",
+                "X",
+                "Y"
+            ],
+            "9": [
+                "Z",
+                "AA",
+                "AB"
+            ],
+            "10": [
+                "AC",
+                "AD",
+                "AE"
+            ],
+            "11": [
+                "AF",
+                "AG",
+                "AH"
+            ],
+            "12": [
+                "AI",
+                "AJ",
+                "AK"
+            ],
+            "13": [
+                "AL",
+                "AM",
+                "AN"
+            ],
+            "14": [
+                "AO",
+                "AP",
+                "AQ"
+            ],
+            "15": [
+                "AR",
+                "AS",
+                "AT"
+            ]
+        }
+    ]
+}
